@@ -1,0 +1,22 @@
+# Django
+*.pyc
+__pycache__/
+*.sqlite3
+.env
+db.sqlite3
+
+# Node/React
+node_modules/
+build/
+npm-debug.log
+
+# Docker
+.env.prod
+docker-compose.override.yml
+
+# IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
