@@ -5,34 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa5d0cff-a04e-40af-bac6-612ac62e7e4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WBParser.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/WBParser/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/WBParser/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/WBParser/filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/WBParser/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/WBParser/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/WBParser/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/WBParser/wb_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/src/components/DiscountRatingChart.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/src/components/Filters.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/src/components/PriceHistogram.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/src/components/ProductTable.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/src/components/SearchWildberries/SearchWildberries.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/src/components/SearchWildberries/SearchWildberries.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/src/components/SearchWildberries/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/src/pages/ProductsPage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/src/setupProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.env.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wildberries-frontend/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/WBParser/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/WBParser/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,25 +40,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\WBParser\\frontend\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/WBParser",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\WBParser\\frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WBParser" />
+      <recent name="D:\WBParser\backend" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\WBParser\backend" />
       <recent name="D:\WBParser\frontend\src" />
@@ -130,7 +114,7 @@
       <updated>1751024800139</updated>
       <workItem from="1751024801185" duration="1507000" />
       <workItem from="1751026330212" duration="12845000" />
-      <workItem from="1751091362352" duration="1943000" />
+      <workItem from="1751091362352" duration="2584000" />
     </task>
     <servers />
   </component>
