@@ -7,7 +7,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/License-MIT-orange)](LICENSE)
 
-![Интерфейс парсера](screenshots/dashboard.png)
+![Интерфейс парсера](.image.png)
 
 ## 🌟 Особенности
 
