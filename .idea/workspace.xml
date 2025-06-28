@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa5d0cff-a04e-40af-bac6-612ac62e7e4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/.env.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wildberries-frontend/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/WBParser/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/WBParser/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="aa5d0cff-a04e-40af-bac6-612ac62e7e4c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alasdaircrowley"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/alasdaircrowley/WildberriesAPI-Parser.git",
+    "accountId": "852849e7-56cd-4278-bb78-d47f0d8ce3b9"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -114,7 +118,7 @@
       <updated>1751024800139</updated>
       <workItem from="1751024801185" duration="1507000" />
       <workItem from="1751026330212" duration="12845000" />
-      <workItem from="1751091362352" duration="2584000" />
+      <workItem from="1751091362352" duration="3417000" />
     </task>
     <servers />
   </component>
